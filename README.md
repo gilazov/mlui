@@ -59,3 +59,5 @@ delay(5)
 
 ## Built With
 * [pure-python-adb](https://pypi.org/project/pure-python-adb/) - Pure-python implementation of the ADB client.
+* [opencv](https://github.com/opencv/opencv) - OpenCV
+
